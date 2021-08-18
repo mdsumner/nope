@@ -17,4 +17,5 @@ More
 }
 \examples{
 nope()
+print(sort(sf::st_drivers(what = "all")$name))
 }
